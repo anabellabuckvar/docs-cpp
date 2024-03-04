@@ -11,7 +11,7 @@ File JIRA Tickets
 Please file issue reports or requests at the [Documentation Jira Project](https://jira.mongodb.org/browse/DOCS).
 
 Licenses
---------
+--------   
 
 All documentation is available under the terms of a [Creative Commons
 License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
